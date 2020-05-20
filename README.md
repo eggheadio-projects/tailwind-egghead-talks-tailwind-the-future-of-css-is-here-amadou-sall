@@ -1,4 +1,7 @@
 # Tailwind: The future of CSS
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 In this talk [Amadou Sall](https://twitter.com/ahasall) gives an introduction to [Tailwindcss](https://tailwindcss.com/), a utility-first CSS framework for rapidly building custom designs.
 
@@ -198,3 +201,22 @@ When used correctly, you don't need to worry about the bundle size.
 - Framework integration is not straight forward.
 - Internet Explorer isn't targeted by tailwind
 - Working with CMS content is challenging. Since you don't have access to the HTML directly, you can't add your utility classes. Thankfully, tailwind provides directives that can be embedded inside CSS files.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://mahmoudabdelwahab.tech"><img src="https://avatars2.githubusercontent.com/u/27310414?v=4" width="100px;" alt=""/><br /><sub><b>Mahmoud Abdel Wahab</b></sub></a><br /><a href="#content-m-abdelwahab" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
