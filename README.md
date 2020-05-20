@@ -7,16 +7,6 @@ In this talk [Amadou Sall](https://twitter.com/ahasall) gives an introduction to
 
 Here's the talk [link](https://egghead.io/lessons/tailwind-egghead-talks-tailwind-the-future-of-css-is-here-amadou-sall) :video_camera:
 
-Table Of Contents
-
-- [Tailwind: The future of CSS](#tailwind-the-future-of-css)
-  - [Key Takeaways from this talk](#key-takeaways-from-this-talk)
-  - [Approaches when writing CSS](#approaches-when-writing-css)
-  - [Why Tailwind is Awesome](#why-tailwind-is-awesome)
-    - [Benefits](#benefits)
-    - [Great Developer Experience](#great-developer-experience)
-  - [Perceived barriers](#perceived-barriers)
-  - [Challenges you might face](#challenges-you-might-face)
 
 ## Key Takeaways from this talk
 
